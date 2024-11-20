@@ -1,2 +1,4 @@
 environment
+*.txt
+images
 .DS_Store
